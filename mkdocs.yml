@@ -1,0 +1,5 @@
+site_name: Test Documentation
+site_description: Description of the description
+theme: readthedocs
+pages:
+- Home: index.md
