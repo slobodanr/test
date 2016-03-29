@@ -3,7 +3,8 @@ site_description: Description of the description
 theme: readthedocs
 
 pages:
-- Home: index.md
+- Home:
+    - Documentation: index.md
 
 dev_addr: '0.0.0.0:8000'
 
