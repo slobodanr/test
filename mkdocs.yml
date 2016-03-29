@@ -2,7 +2,9 @@ site_name: Test Documentation
 site_description: Description of the description
 theme: readthedocs
 
-docs_dir: sources
-
 pages:
 - Home: index.md
+
+dev_addr: '0.0.0.0:8000'
+
+repo_url: https://github.com/slobodanr/test
