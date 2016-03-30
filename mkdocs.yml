@@ -14,5 +14,6 @@ theme: readthedocs
 pages:
 - Home: index.md
 - Roadmap: roadmap.md
+- Setup Certificates: certificates.md
 
 copyright: © 2016 <a href="http://www.nordeus.com" target="_blank">Nordeus</a>
