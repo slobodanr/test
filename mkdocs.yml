@@ -6,7 +6,6 @@ repo_url: https://github.com/Nordeus/pushkin
 
 site_description: Pushkin is a free open source tool for sending push notifications.
 site_author: Nordeus
-site_favicon: img/favicon.ico
 
 dev_addr: '0.0.0.0:8000'
 
